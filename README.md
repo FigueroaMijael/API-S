@@ -71,6 +71,14 @@ API's/
 
 ---
 
+### ARCHIVO .ENV
+PORT=3000
+MONGO_URI=tu_string_de_conexión
+JWT_SECRET=una_clave_segura
+EMAIL_USER=tu_correo@gmail
+
+
+
 ## 📥 Instalación
 
 ```bash
@@ -78,9 +86,3 @@ git clone https://github.com/tu-usuario/Gemini-Ecommers.git
 cd Gemini-Ecommers/backend
 npm install
 
-ARCHIVO .ENV
-PORT=3000
-MONGO_URI=tu_string_de_conexión
-JWT_SECRET=una_clave_segura
-EMAIL_USER=tu_correo@gmail
-# API-S
